@@ -2,7 +2,7 @@
 
 I design and build secure, scalable cloud platforms for tech companies, 
 with a focus on Platform Engineering, Internal Developer Platforms (IDP), 
-and cloud-native operating models on Google Cloud.
+and cloud-native operating modelsand DevSecOps on Google Cloud.
 
 My work sits at the intersection of architecture, automation, and developer experience — 
 helping teams move from ad-hoc infrastructure to well-governed, self-service platforms.
